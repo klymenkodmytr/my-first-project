@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Комплексний аналіз готелів Львова</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; background: #fafbfc; color: #222; margin: 0; padding: 0; }
+        .container { max-width: 1200px; margin: 30px auto; padding: 30px; background: #fff; border-radius: 18px; box-shadow: 0 4px 32px rgba(0,0,0,0.08); }
+        h1, h2, h3 { font-weight: 700; margin-bottom: 16px; }
+        h1 { font-size: 2.2em; text-align: center; margin-bottom: 32px; }
+        h2 { font-size: 1.6em; margin-top: 36px; }
+        .dash-img { display: block; margin: 30px auto; border-radius: 14px; box-shadow: 0 2px 14px rgba(0,0,0,0.06); max-width: 100%; }
+        .block { margin-bottom: 30px; }
+        ul, ol { margin-left: 24px; }
+        .author { color: #888; font-size: 1em; margin-top: 40px; border-top: 1px solid #eee; padding-top: 20px; }
+        .insight, .recom { background: #f4f8fa; border-left: 4px solid #7bd0e7; padding: 16px 22px; margin: 18px 0; border-radius: 9px; }
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-bottom: 24px; }
+        @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } .container { padding: 14px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Комплексний аналіз готелів Львова</h1>
+        <div class="block">
+            <h2>1. Вступ</h2>
+            <p><b>Мета проекту:</b> комплексно проаналізувати ринок готелів Львова, виявити головні тренди, рівень сервісу та очікування гостей, а також дати практичні рекомендації для бізнесу й туристів.</p>
+            <ul>
+                <li>Кількість готелів: <b>50</b></li>
+                <li>Кількість відгуків: <b>77&nbsp;175</b></li>
+                <li>Середній рейтинг: <b>8.44</b></li>
+                <li>Дата аналізу: <b>20.07.2025</b></li>
+            </ul>
+        </div>
+        <div class="block">
+            <h2>2. Методологія</h2>
+            <ol>
+                <li>Збір даних з відкритих джерел (Booking, Google Reviews тощо)</li>
+                <li>Попереднє очищення, агрегація та структуризація даних</li>
+                <li>Візуальний аналіз: Python, Matplotlib, Seaborn</li>
+                <li>Тональний та категоріальний аналіз відгуків</li>
+            </ol>
+        </div>
+        <div class="block">
+            <h2>3. Ключові графіки та дашборд</h2>
+            <img src="anaconda_projects_50d6bded-17c1-4d1a-9eea-aeb88799abb1_lviv_hotels_analysis.png" alt="Дашборд готелів Львова" class="dash-img">
+            <div class="grid-2">
+                <div>
+                    <h3>Розташування vs Ціна</h3>
+                    <p>Більшість дорогих готелів зосереджені в радіусі 2 км від центру, але високий рейтинг отримують і готелі на околицях з особливим сервісом.</p>
+                </div>
+                <div>
+                    <h3>Розподіл рейтингів за зірками</h3>
+                    <p>Деякі 3* готелі мають рейтинги не гірші за 4*–5*. Якість сервісу може бути важливішою за офіційну категорію.</p>
+                </div>
+            </div>
+            <div class="grid-2">
+                <div>
+                    <h3>Топ-10 за ціна/якість</h3>
+                    <p>Вигідні пропозиції — це здебільшого 3*–4* готелі у 2–4 км від центру з індивідуальним підходом та лояльною ціною.</p>
+                </div>
+                <div>
+                    <h3>Середні оцінки по місяцях і типах подорожей</h3>
+                    <p>Найвищі оцінки у пар і бізнес-туристів. Пік задоволення припадає на літо й грудень.</p>
+                </div>
+            </div>
+            <div class="grid-2">
+                <div>
+                    <h3>Тональність відгуків</h3>
+                    <p>Дуже позитивних і позитивних — понад 80%. Гості цінують чистоту, сервіс та атмосферу.</p>
+                </div>
+                <div>
+                    <h3>Динаміка відгуків</h3>
+                    <p>Середня оцінка стабільно висока (&gt;8,4), а кількість відгуків сезонно зростає.</p>
+                </div>
+            </div>
+        </div>
+        <div class="block">
+            <h2>4. Інсайти</h2>
+            <div class="insight">
+                <ul>
+                    <li>3* готелі часто конкурують із 4*–5* за рахунок сервісу.</li>
+                    <li>Найкраще співвідношення ціна/якість — у готелів трохи далі від центру.</li>
+                    <li>81% відгуків — позитивні чи дуже позитивні.</li>
+                    <li>Сезонність попиту — літо і грудень.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="block">
+            <h2>5. Рекомендації</h2>
+            <div class="recom">
+                <b>Для готелів:</b>
+                <ul>
+                    <li>Ставка на якість сервісу і унікальні “фішки” — навіть важливіше, ніж кількість зірок.</li>
+                    <li>Регулярна робота з відгуками, оперативна реакція на негатив.</li>
+                    <li>Гнучка цінова політика в міжсезоння.</li>
+                </ul>
+                <b>Для туристів:</b>
+                <ul>
+                    <li>Обирати готелі за відгуками та рейтингом, а не лише за категорією.</li>
+                    <li>Для вигідної ціни — звертати увагу на готелі в 2–4 км від центру.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="author">
+    <b>Автор:</b> Дмитро Клименко<br>
+    Досвідчений аналітик, використовую у роботі Al. Спеціалізуюсь на сфері туризму та візуалізації даних.<br>
+    E-mail: <a href="mailto:klimmi18@gmail.com">klimmi18@gmail.com</a><br>
+    Telegram: <a href="https://t.me/klymenkodmytr" target="_blank">@klymenkodmytr</a><br>
+    Linkedin: <a href="https://www.linkedin.com/in/dmytro-klymenko-/" target="_blank">https://www.linkedin.com/in/dmytro-klymenko-/</a><br>
+    GitHub: <a href="https://github.com/klymenkodmytr/my-first-project" target="_blank">https://github.com/klymenkodmytr/my-first-project</a>
+</div>
+    </div>
+</body>
+</html>
