@@ -1,0 +1,51 @@
+﻿name,rating,review_count,distance_km,price_uah,stars,amenities,url
+Inn Halytska,7.9,1425,1.9,4463,4,"['spa', 'pool', 'bar']",https://www.booking.com/hotel/ua/inn-halytska.html
+Residence Lion Luxury,8.3,1290,1.9,2278,3,"['restaurant', 'terrace', 'fitness', 'bar']",https://www.booking.com/hotel/ua/residence-lion-luxury.html
+Plaza Shevchenko Classic,8.1,599,3.1,1341,3,"['pool', 'bar', 'wifi']",https://www.booking.com/hotel/ua/plaza-shevchenko-classic.html
+Suite Virmenska,8.5,1699,0.5,3405,4,"['terrace', 'fitness', 'spa', 'concierge', 'parking', 'bar']",https://www.booking.com/hotel/ua/suite-virmenska.html
+Inn Halytska Star,8.5,1104,1.1,3436,5,"['spa', 'pool', 'concierge']",https://www.booking.com/hotel/ua/inn-halytska-star.html
+House Cathedral Heritage,9.1,1361,2.8,2842,4,"['pool', 'parking', 'wifi']",https://www.booking.com/hotel/ua/house-cathedral-heritage.html
+Inn Jesuit,7.9,2047,2.0,3158,3,"['bar', 'restaurant', 'wifi']",https://www.booking.com/hotel/ua/inn-jesuit.html
+Plaza Virmenska Spa,8.5,996,0.7,2721,3,"['wifi', 'restaurant']",https://www.booking.com/hotel/ua/plaza-virmenska-spa.html
+Palace Jesuit,8.1,1683,2.8,4219,4,"['concierge', 'restaurant', 'spa']",https://www.booking.com/hotel/ua/palace-jesuit.html
+Hotel Halytska Modern,9.6,2831,1.3,3702,5,"['wifi', 'fitness']",https://www.booking.com/hotel/ua/hotel-halytska-modern.html
+Residence Opera,8.9,1888,1.2,1972,4,"['fitness', 'spa', 'terrace', 'restaurant']",https://www.booking.com/hotel/ua/residence-opera.html
+Hotel Virmenska View,7.7,526,4.5,2295,3,"['wifi', 'concierge', 'bar', 'pool', 'parking']",https://www.booking.com/hotel/ua/hotel-virmenska-view.html
+Plaza Shevchenko,9.4,1094,2.3,4423,4,"['restaurant', 'terrace', 'wifi', 'spa', 'parking', 'pool']",https://www.booking.com/hotel/ua/plaza-shevchenko.html
+Suite Shevchenko View,8.0,1406,2.0,1350,2,"['terrace', 'wifi', 'bar']",https://www.booking.com/hotel/ua/suite-shevchenko-view.html
+Grand Virmenska,7.8,1444,1.2,2376,2,"['bar', 'spa', 'restaurant']",https://www.booking.com/hotel/ua/grand-virmenska.html
+Palace Opera,9.0,1143,2.6,1483,4,"['fitness', 'concierge', 'bar', 'parking', 'pool', 'terrace', 'wifi']",https://www.booking.com/hotel/ua/palace-opera.html
+Inn Carpathian,7.7,755,3.5,1492,3,"['spa', 'bar', 'wifi', 'terrace', 'restaurant']",https://www.booking.com/hotel/ua/inn-carpathian.html
+Grand Jesuit,8.2,3139,1.4,1884,4,"['wifi', 'spa']",https://www.booking.com/hotel/ua/grand-jesuit.html
+Grand Carpathian Luxury,9.2,841,1.2,3463,4,"['wifi', 'pool']",https://www.booking.com/hotel/ua/grand-carpathian-luxury.html
+Hotel Lion City,8.7,1440,0.4,1407,2,"['spa', 'parking', 'wifi', 'concierge', 'restaurant']",https://www.booking.com/hotel/ua/hotel-lion-city.html
+House Galicia,8.8,1114,2.1,3277,3,"['concierge', 'wifi']",https://www.booking.com/hotel/ua/house-galicia.html
+Plaza Lviv Heritage,7.6,510,0.5,1578,4,"['terrace', 'restaurant', 'parking', 'pool', 'wifi']",https://www.booking.com/hotel/ua/plaza-lviv-heritage.html
+Suite Cathedral Classic,7.7,2428,4.2,1643,2,"['pool', 'wifi']",https://www.booking.com/hotel/ua/suite-cathedral-classic.html
+Lodge Svoboda Comfort,8.6,793,0.2,3406,3,"['concierge', 'terrace', 'restaurant']",https://www.booking.com/hotel/ua/lodge-svoboda-comfort.html
+Grand Lion,8.8,1503,2.7,3034,4,"['terrace', 'fitness', 'pool', 'restaurant']",https://www.booking.com/hotel/ua/grand-lion.html
+Hotel Dominican Luxury,8.0,1463,2.4,2012,2,"['restaurant', 'parking', 'spa', 'fitness']",https://www.booking.com/hotel/ua/hotel-dominican-luxury.html
+Lodge Ratusha,9.1,687,1.1,4531,4,"['wifi', 'spa', 'parking', 'concierge', 'fitness', 'bar', 'terrace']",https://www.booking.com/hotel/ua/lodge-ratusha.html
+Plaza Opera Comfort,7.8,2275,4.4,1725,3,"['concierge', 'pool', 'fitness', 'spa', 'terrace']",https://www.booking.com/hotel/ua/plaza-opera-comfort.html
+Boutique Jesuit,8.1,1703,2.1,2943,3,"['terrace', 'spa']",https://www.booking.com/hotel/ua/boutique-jesuit.html
+Plaza Prospekt Premium,8.3,854,2.6,2984,3,"['terrace', 'restaurant']",https://www.booking.com/hotel/ua/plaza-prospekt-premium.html
+Plaza Ratusha,8.3,1361,0.2,1330,3,"['bar', 'fitness']",https://www.booking.com/hotel/ua/plaza-ratusha.html
+Hotel Knyazha View,9.5,2393,0.5,1211,4,"['parking', 'wifi']",https://www.booking.com/hotel/ua/hotel-knyazha-view.html
+Grand Ratusha Heritage,7.5,1099,0.1,2266,3,"['bar', 'fitness', 'spa']",https://www.booking.com/hotel/ua/grand-ratusha-heritage.html
+Residence Svoboda,7.8,1960,0.6,1501,4,"['parking', 'bar', 'wifi', 'fitness']",https://www.booking.com/hotel/ua/residence-svoboda.html
+Boutique Cathedral Heritage,9.5,3189,1.9,4539,4,"['bar', 'fitness', 'terrace', 'wifi', 'restaurant']",https://www.booking.com/hotel/ua/boutique-cathedral-heritage.html
+Boutique Knyazha Premium,8.6,947,4.2,2784,3,"['terrace', 'restaurant', 'bar']",https://www.booking.com/hotel/ua/boutique-knyazha-premium.html
+Lodge Cathedral Comfort,8.4,1711,0.5,1255,5,"['parking', 'pool', 'bar', 'restaurant', 'terrace']",https://www.booking.com/hotel/ua/lodge-cathedral-comfort.html
+House Ploshcha View,7.8,1900,2.5,3478,2,"['concierge', 'fitness', 'spa', 'terrace', 'restaurant']",https://www.booking.com/hotel/ua/house-ploshcha-view.html
+Residence Old Town Heritage,8.6,923,0.2,2171,5,"['bar', 'restaurant', 'fitness', 'pool']",https://www.booking.com/hotel/ua/residence-old-town-heritage.html
+Inn Prospekt Luxury,8.9,1531,2.5,1288,3,"['pool', 'wifi', 'spa']",https://www.booking.com/hotel/ua/inn-prospekt-luxury.html
+House Ploshcha Heritage,9.5,1011,0.5,1303,4,"['wifi', 'terrace', 'fitness', 'pool', 'spa', 'parking']",https://www.booking.com/hotel/ua/house-ploshcha-heritage.html
+Suite Knyazha View,8.2,2523,1.5,3903,4,"['concierge', 'bar']",https://www.booking.com/hotel/ua/suite-knyazha-view.html
+Residence Galicia Luxury,8.8,1197,1.6,4837,4,"['bar', 'fitness', 'pool', 'wifi', 'parking']",https://www.booking.com/hotel/ua/residence-galicia-luxury.html
+Hotel Prospekt,8.7,1425,2.9,3859,4,"['parking', 'restaurant']",https://www.booking.com/hotel/ua/hotel-prospekt.html
+Palace Old Town,7.8,2316,2.3,4374,4,"['terrace', 'spa', 'pool', 'bar']",https://www.booking.com/hotel/ua/palace-old-town.html
+Suite Galicia Classic,8.8,2469,2.7,3441,3,"['pool', 'fitness', 'concierge', 'restaurant', 'bar']",https://www.booking.com/hotel/ua/suite-galicia-classic.html
+House Knyazha City,9.1,1703,2.8,4754,4,"['parking', 'bar', 'concierge']",https://www.booking.com/hotel/ua/house-knyazha-city.html
+Grand Ploshcha,7.7,749,0.6,4729,4,"['spa', 'fitness', 'wifi', 'parking']",https://www.booking.com/hotel/ua/grand-ploshcha.html
+Residence Virmenska View,7.7,2471,2.6,2404,3,"['wifi', 'bar', 'fitness']",https://www.booking.com/hotel/ua/residence-virmenska-view.html
+Plaza Dominican Premium,8.8,2256,2.6,1585,4,"['spa', 'wifi']",https://www.booking.com/hotel/ua/plaza-dominican-premium.html
